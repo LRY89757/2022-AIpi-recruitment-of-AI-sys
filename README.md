@@ -1,5 +1,5 @@
 # 2022-AIpi-recruitment-of-AI-sys
-> 欢迎来到AIpi招新AI system部分, 此招新面对具有一定高性能经验、具有C++或者cuda基础的同学，也欢迎对这个感兴趣的小白。
+> 欢迎来到AIpi招新AI system部分, 此招新面对了解深度学习、具有一定高性能经验、具有C++或者cuda基础的同学，也欢迎对这个感兴趣的小白。
 
 ## 写在前面
 如果你不知道什么是GitHub，什么是git，建议首先快速了解一下[git](https://www.liaoxuefeng.com/wiki/896043488029600).
